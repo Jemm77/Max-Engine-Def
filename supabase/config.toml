@@ -1,0 +1,7 @@
+project_id = "jnafxatrdcbxdenchaab"
+
+[functions.ai-chat]
+verify_jwt = false
+
+[functions.process-publications]
+verify_jwt = false
